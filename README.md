@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 Check out my portfolio [here](tahzeeb.netlify.app)
+- 👨‍💻 Check out my portfolio [here](https://tahzeeb.netlify.app)
 
 - 📫 How to reach me [**ishmum20000@gmail.com**](mailto:ishmum20000@gmail.com)
 
