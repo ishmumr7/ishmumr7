@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my portfolio [tahzeeb.netlify.app](tahzeeb.netlify.app)
 
-- 📫 How to reach me **ishmum200002gmail.com**
+- 📫 How to reach me **ishmum20000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
