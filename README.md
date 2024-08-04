@@ -3,7 +3,7 @@
 	A passionate full-stack developer with a Bachelor's in Computer Science
 	(Software Engineering) from Universiti Teknologi Malaysia.
 </h3>
-<img src="https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1" alt="coding" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhscDMxZHdvZXVueG5yajFzcTYyenVzcm94YXhyOWh5dHQyczR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.webp" alt="coding" />
 
 - 🔭 I’m currently working on [Campus Closet](https://github.com/ishmumr7/campus-closet)
 
