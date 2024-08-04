@@ -4,11 +4,13 @@
 	(Software Engineering) from Universiti Teknologi Malaysia.
 </h3>
 
-- 🔭 I’m currently working on [Campus
-Closet](https://github.com/ishmumr7/campus-closet) - 🌱 I’m currently learning
-**React Native** - 👨‍💻 Check out my portfolio
-[tahzeeb.netlify.app](tahzeeb.netlify.app) - 📫 How to reach me
-**ishmum200002gmail.com**
+- 🔭 I’m currently working on [Campus Closet](https://github.com/ishmumr7/campus-closet)
+
+- 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 Check out my portfolio [tahzeeb.netlify.app](tahzeeb.netlify.app)
+
+- 📫 How to reach me **ishmum200002gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
